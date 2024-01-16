@@ -1,5 +1,4 @@
-# Hi and welcome! 🌙
-
+<h1><img src = "https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">Hi and welcome!🌙</h1>
 🟣> **My name is Sandra and I'm a beginner junior developer and a student. Next year I'm going to pass into the high level course of software development in my college.**
 
 🟣> **At this moment I'm busy with repeating everything I've learned two years ago, because I did a pause. Namely: HTML (50% on Codecademy), JavaScript (57% on Codecademy).** 
