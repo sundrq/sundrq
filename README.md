@@ -5,4 +5,4 @@
 
   <p> <img src = "https://i.pinimg.com/originals/e4/96/0c/e4960c1d084132279f17ca869846c00c.gif" width = "20"> &nbsp I also had experience with CSS (HTML&CSS), C# (<strong>10%</strong> on Codecademy).</p>
 
-  <p> <img src = "https://i.pinimg.com/originals/e4/96/0c/e4960c1d084132279f17ca869846c00c.gif" width = "20"> &nbsp Currently, I have a task to catch up on all the knowledge in <strong>HTML</strong> and start learning <strong>Python</strong>.</p>
+  <p> <img src = "https://i.pinimg.com/originals/e4/96/0c/e4960c1d084132279f17ca869846c00c.gif" width = "20"> &nbsp Currently, I have a task to catch up on all the knowledge in <strong>HTML&CSS</strong> and start learning <strong>Python</strong>.</p>
